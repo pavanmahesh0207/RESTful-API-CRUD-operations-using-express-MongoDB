@@ -6,8 +6,9 @@ This project implements a simple RESTful API using Express.js and MongoDB. The A
 To run this project, you need to have the following software installed on your system:
 
 Node.js
-
 MongoDB
+Mongoose
+Nodemon
 
 
 
