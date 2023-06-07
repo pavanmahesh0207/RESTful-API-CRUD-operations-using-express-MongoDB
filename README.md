@@ -33,7 +33,7 @@ Start your MongoDB server.
 
 In the project directory, run the following command to start the Express.js server:
 
-```npm start```
+```npm run start```
 
 The server will start running on http://localhost:3004 (or the specified port number).
 
