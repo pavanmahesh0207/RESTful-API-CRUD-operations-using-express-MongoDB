@@ -9,9 +9,7 @@ Node.js
 
 MongoDB
 
-Mongoose
 
-Nodemon
 
 
 
